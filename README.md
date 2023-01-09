@@ -1,4 +1,4 @@
-# FEEL Dataset
+# CTU-50-FEEL Dataset
 
 Dataset used by the [FEEL project](https://github.com/stratosphereips/feel_project). 
 It's a variant of the CTU-50-v1 dataset, which is not yet published.

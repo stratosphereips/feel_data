@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: >-
-  FEEL dataset: Federated dataset for network security
+  CTU-50-FEEL dataset: Federated dataset for network security
 message: 'If you use this software, please cite it as below.'
 type: software
 authors:
